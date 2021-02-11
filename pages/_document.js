@@ -12,8 +12,8 @@ class MyDocument extends Document {
         <Head>
             <title>Loja - Sallve</title>
             <link rel="preconnect" href="https://fonts.gstatic.com"/>
-            <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet"/>
-            <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap" rel="stylesheet"/>
+            <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap" rel="stylesheet"/>
+            <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;500;700;800&display=swap" rel="stylesheet"/>
 
             <style
             dangerouslySetInnerHTML={{
